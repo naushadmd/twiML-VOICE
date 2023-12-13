@@ -1,0 +1,4 @@
+<!-- voice.xml -->
+<Response>
+    <Say>Hello, this is a test call.</Say>
+</Response>
